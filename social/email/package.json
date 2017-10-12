@@ -1,5 +1,5 @@
 {
-  "name": "node-red-node-email",
+  "name": "@frontops/node-red-node-email",
   "version": "0.1.24",
   "description": "Node-RED nodes to send and receive simple emails",
   "dependencies": {
